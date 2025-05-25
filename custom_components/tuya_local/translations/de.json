@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Klimaanlage",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -676,7 +677,12 @@
                     "starting": "Starten",
                     "emptying": "Leeren",
                     "resetting": "Zurücksetzen",
-                    "reverse": "Rückwärts"
+                    "reverse": "Rückwärts",
+                    "full": "Voll",
+                    "empty": "Leer",
+                    "missing": "Fehlend",
+                    "formatting": "Formatieren",
+                    "unformatted": "Unformatiert"
                 }
             },
             "time_remaining": {

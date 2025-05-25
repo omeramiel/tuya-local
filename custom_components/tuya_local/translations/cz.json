@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Klimatizace",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -676,7 +677,12 @@
                     "starting": "Začíná",
                     "emptying": "Vyprazdňování",
                     "resetting": "Resetování",
-                    "reverse": "Obrácený"
+                    "reverse": "Obrácený",
+                    "full": "Plný",
+                    "empty": "Prázdný",
+                    "missing": "Chybí",
+                    "formatting": "Formátování",
+                    "unformatted": "Neformátováno"
                 }
             },
             "time_remaining": {

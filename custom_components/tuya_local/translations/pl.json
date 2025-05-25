@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Klimatyzacja",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -677,7 +678,12 @@
                     "starting": "Uruchamianie",
                     "emptying": "Opróżnianie",
                     "resetting": "Resetowanie",
-                    "reverse": "Odwrócone"
+                    "reverse": "Odwrócone",
+                    "full": "Pełne",
+                    "empty": "Puste",
+                    "missing": "Brakujące",
+                    "formatting": "Formatowanie",
+                    "unformatted": "Niezformatowane"
                 }
             },
             "time_remaining": {

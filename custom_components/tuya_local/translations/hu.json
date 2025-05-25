@@ -163,6 +163,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Légkondicionáló",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -677,7 +678,12 @@
                     "starting": "Indítás",
                     "emptying": "Ürítés",
                     "resetting": "Visszaállítás",
-                    "reverse": "Visszafelé"
+                    "reverse": "Visszafelé",
+                    "full": "Teljes",
+                    "empty": "Üres",
+                    "missing": "Hiányzik",
+                    "formatting": "Formázás",
+                    "unformatted": "Nem formázott"
                 }
             },
             "time_remaining": {

@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Климатик",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -677,7 +678,12 @@
                     "starting": "Стартиране",
                     "emptying": "Изтощаване",
                     "resetting": "Нулиране",
-                    "reverse": "Обратно"
+                    "reverse": "Обратно",
+                    "full": "Пълен",
+                    "empty": "Празен",
+                    "missing": "Липсва",
+                    "formatting": "Форматиране",
+                    "unformatted": "Неформатиран"
                 }
             },
             "time_remaining": {

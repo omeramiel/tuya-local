@@ -87,8 +87,10 @@
 - Eberg Qubo Q40HD
 - ElectriQ 12WMINV
 - ElectriQ Airflex, EcoSilent models
+- ElectriQ SupremeCool SC16HPW
 - Fersk Vind 2
 - Fisher Summer air conditioner
+- Fral Super Cool FSC14.2 DH portable air conditioner
 - Friedrich Uni-Fit air conditioner (models: UCT14A30, UCT12A30, UCT08B10A)
 - Fujicool Yuzu heat pump
 - Goldair GCPAC350W portable air conditioner
@@ -159,10 +161,12 @@
 - Nulite NL-B245 monobloc heat pump
 - Powerworld PW040, PWS58330, PWS58410 air+water heat pumps
 - Sanden GAU-A45HPD WiFi heat pump controller
+- Lohxa SR208C solar water heating controller
 - Thermex IF series V pro and Lima 80V hot water systems
 
 ### Thermostats
 
+- 4-TH quad temperature/humidity smart switch
 - Arlec PCTH01HA temperature/humidity smart switch
 - Atorch AT4PTW DIN rail thermostat
 - Atorch S1TW thermostat smart switch
@@ -185,6 +189,7 @@
 - ETOP-HT thermostat
 - ETOP-HT-CH thermostat (branded as Ferco GN1)
 - Eurom WiFi thermostat
+- Euroster 4040 Smart thermostat
 - EZAIoT R9Lite thermostat
 - EZAIoT thermostat smartplug
 - Hysen HY02TP, HY08ACF, HY08WE-2, HY101RF thermostats
@@ -391,6 +396,7 @@
 - Delixing KCL-1802A-M aroma diffuser
 - Ditua DT-1522-YN aroma diffuser
 - Etersky aroma diffuser with light
+- InLine ultrasonic aroma diffuser
 - Maxico aroma diffuser with light (cannot be differentiated automatically from Ditua above)
 - Tesla Smart aroma diffuser with light
 - YX-025 WB aroma diffuser
@@ -404,7 +410,7 @@
 - Casdon TD Pro 2 oven
 - Cecofry 5500 Connected air fryer
 - Etna VW644MC dishwasher
-- Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBT-26S cooking probe thermometers
+- Inkbird iBBQ-4BW, iBBQ-4T, IBS-M1S, IBS-M2, IBT-26S cooking probe thermometers
 - Inkbird ISC-007BW smoker fan controller
 - Inkbird sous vide cooker (also supports Silvercrest sous vide sticks)
 - Klarstein Amazonia dishwasher
@@ -472,6 +478,7 @@
 
 - Absina Wallbox EV charger (also sold as Dé Wallbox and supporting 16, 32, 40 and 50A single and 3-phase variants)
 - AFYEEV 16A 11kW, 32A 22kW portable EV chargers
+- dé Wall Charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
 - EcoPoint EV charger
 - EVSun EV charger
@@ -502,6 +509,7 @@ the best option.
 - Aubess 1-gang switch with energy monitoring
 - Aubess 2-gang switch
 - Bauhn APSW-0624 5 way powerstrip (with unswitched USB)
+- BBCoin AC5299 PCIe computer switch
 - Blitzwolf BW-SHP6 PRO smartplug with child lock
 - Blitzwolf BW-SHP-9 3 outlet + USB powerstrip
 - Brilliant 1/2/3/4 gang wall switches with power monitoring
@@ -633,6 +641,7 @@ of device.
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
 - Loginovo TV sync backlight
 - LSC Smart Connect CCT + RGB ceiling light
+- LSC Smart Connect CCT + RGB led strip
 - LSC Smart Connect garden spotlights
 - LSC Smart Connect Neon LED strip
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
@@ -731,6 +740,7 @@ of device.
 - Mellerware City Move vacuum cleaner
 - Neatsvor X600 vacuum cleaner
 - OPK K2 vacuum cleaner
+- Parkside PPWD 30 A1 workshop vacuum
 - Proscenic M9 vacuum cleaner
 - Rinkmo D2 vacuum cleaner
 - Tefal X-plorer serie 75 animal vacuum
@@ -771,12 +781,14 @@ work reliably, even if listed below.
 
 - Cleverio CD200 video doorbell
 - Iebeyond ECH doorbell with 433MHz RF hub
+- iGET HOME DS1 video doorbell
 - HunterTBK HF-6602T video doorbell
 - KW02 video doorbell
 - Linda Smart 7S video doorbell
 - LSC Smart Connect video doorbell
 - MyQ TD8 video doorbell
 - Orno Sigo doorbell
+- Vidos M13-XT video dual gate doorbell
 - WHM-04 doorbell (sold under various brands)
 
 ### Cameras
@@ -893,6 +905,7 @@ port and password.
 
 - generic illuminance sensor (2 types using different dps)
 - generic PIR motion sensor
+- generic PIR with alarm
 - generic smoke detector
 - Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
@@ -911,6 +924,7 @@ port and password.
 - GratKit filament dryer
 - Haier Nayun NY-GS-04 combustible gas alarm
 - Haoliyuen EWC02 air quality monitor
+- Haozee PS10 mmWave presence sensing light switch
 - Houschen anti-fog bathroom mirror with lights
 - HRT AS90 temperature and humidity alarm
 - Holman Helios weather station
@@ -935,6 +949,7 @@ port and password.
 - RSE TY-WFH v3.01 gate controller
 - RTCZ-03 human presence sensor
 - RainPoint TTV103FRF water timer
+- RQ400A gas alarm
 - Sai Me Tei towel rail
 - SD123 HPR01 human presence radar
 - SNT957W-TDE temperature sensor
@@ -1028,14 +1043,15 @@ entity types as sub devices.
 - Nedis ZBRC10WT 4 button remote control
 - Nedis ZBSD10WT door/window sensor
 - Nedis ZBSC10WT temperature and humidity sensor
+- Neo Siren Alarm 2
 - PY321-Z-TY energy meter
 - Smart air box BR V2
 - Temperature and humidity sensor with alarm feature
 - WL-898WZ water leak sensor
 - WL-RTCZ-05Z human presence sensor
 - Zemismart SPM01 energy meter
+- Zemismart ZM85EL-1x roller blind motor
 - ZPmeter 214C-Z water meter (with and without valve control)
-
 - ZTH08ZTU temperature and humidity sensor
 
 NOTE: this project does not intend to expand the scope to support non-Tuya

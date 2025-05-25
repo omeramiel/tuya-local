@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "AC",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -676,7 +677,12 @@
                     "starting": "Memulai",
                     "emptying": "Mengosongkan",
                     "resetting": "Merestart",
-                    "reverse": "Mundur"
+                    "reverse": "Mundur",
+                    "full": "Penuh",
+                    "empty": "Kosong",
+                    "missing": "Hilang",
+                    "formatting": "Memformat",
+                    "unformatted": "Belum diformat"
                 }
             },
             "time_remaining": {

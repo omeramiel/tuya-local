@@ -162,6 +162,7 @@
         },
         "climate": {
             "aircon_extra": {
+                "name": "Aire condicionat",
                 "state_attributes": {
                     "fan_mode": {
                         "state": {
@@ -429,7 +430,12 @@
                     "starting": "Inici",
                     "emptying": "Buidat",
                     "resetting": "Reinicialització",
-                    "reverse": "Inversió"
+                    "reverse": "Inversió",
+                    "full": "Ple",
+                    "empty": "Buit",
+                    "missing": "Falta",
+                    "formatting": "Formatant",
+                    "unformatted": "No formatat"
                 }
             },
             "time_remaining": {
