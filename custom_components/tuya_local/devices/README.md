@@ -638,14 +638,14 @@ from the camera.
 
 ### `cover`
 
-Either **position** or **open** should be specified.
+Either **position**, **action** or **open** should be specified otherwise the cover will always appear in an unknown state.
 
 - **position** (optional, number 0-100): a dp to control the percentage that the cover is open.
     0 means completely close, 100 means completely open.
 - **control** (optional, mapping of strings): a dp to control the cover. Mainly useful if **position** cannot be used.
     Valid values are `open, close, stop`
 - **action** (optional, string): a dp that reports the current state of the cover.
-   Special values are `opening, closing`
+   Special values are `opening, closing, opened, closed`
 - **open** (optional, boolean): a dp that reports if the cover is open. Only used if **position** is not available.
 - **tilt_position** (optional, number): a dp to control the tilt opening of the cover (an example is venetian blinds that tilt as well as go up and down). The range will be auto-converted to the 0-100 expected by HA.
 
@@ -753,6 +753,19 @@ no information will be available about which specific credential was used to unl
      - `range` can be supplied to define the `min` and `max` length of the text.
      - if `hidden` is specified as `true`, the mode will be set to `password`, otherwise the mode will be `text`.
      - if the `type` is set to `base64` or `hex`, the `pattern` property of the text entity will be set appropriately. There is currently no way to set an arbitrary pattern.
+
+### `time`
+
+Time is intended to be used for setting wall clock time, daily alarms etc.
+However, it can also be convenient to use it for 24h timers. Since
+there is no way to change the limits in the UI, it is not recommended
+to use it for other length timers.
+
+*At least one of the following dps is required**
+
+- **hour** (optional, integer in range 0-24) - the hours component
+- **minute** (optional, integer in range 0-60 or 0-1440 if the only dp) - the minute component
+- **second** (optional, integer in range 0-60 or 0-84600 if the only dp) - the second component
 
 ### `vacuum`
 - **status** (required, mapping of strings): a dp to report and control the status of the vacuum.
