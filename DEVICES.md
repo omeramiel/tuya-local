@@ -85,6 +85,7 @@
 - Duux Blizzard portable air conditioner
 - Eberg Cooly C35HD
 - Eberg Qubo Q40HD
+- EG4 solar heat pump
 - ElectriQ 12WMINV
 - ElectriQ Airflex, EcoSilent models
 - ElectriQ SupremeCool SC16HPW
@@ -121,7 +122,7 @@
 - Tesla Smart TAF and AUX series air conditioners
 - TroniTechnik Hellnar Klimagerät
 - Trotec PAC-W 2600 SH heat pump
-- TruCool TC1160 air conditioner 
+- TruCool TC1160 air conditioner
 - Vaco Moby Blue 14 / Arrifana 16 portable heat pump
 - Vivax Cool ACP-12CH35REWI
 - Vivion 300123/4/5 air conditioners
@@ -135,8 +136,8 @@
 - Evotherm ETI series heat pump
 - Fairland IPHCR15, RMIC06, X20 pool heat pumps (also Pool Systems and other brands)
 - Garden PAC pool heat pump (also works with Summerwave Si Series)
-- Madimack Eco, Elite V2 and other model pool heat pumps
-- Poolex Silverline, Q-7, Q-line, Arctic, Vertigo, and Ice Spa heat pumps
+- Madimack Eco, Elite V2,V3,V4 and other model pool heat pumps
+- Poolex Silverline, Q-7, Q-line, Arctic, Vertigo, Ice Spa, Mag FI heat pumps
 - Poolsana InverPower Next pool heat pump
 - Pool Systems IPS Pro pool heat pump (also Fairland Inver-X)
 - Pro-Energy PE08 pool heat pump
@@ -181,6 +182,7 @@
 - Avatto ME81, WS20R and WT100 thermostats
 - Awow/Mi-heat TH213 thermostat (two variants)
 - Beca BAC-002, BAC-006, BHT-002/3000, BHP-6000 thermostats
+- Beca BHT-12 thermostat smartplug
 - Beok TCB/W38 thermostat (also sold as RT-70 under other brands)
 - Beok TGR81 thermostat _(also reported working with Myuet ME98, Avatto WT81/ME81)_
 - Beok TGM50, TOL47, TR8B thermostats
@@ -260,7 +262,7 @@
 - Casafan ECO Neo III ceiling fan with light
 - Cecotec ceiling fan with light
 - Chameleon TCG 100cm tower fan
-- Chanfok ceiling fan with cool/warm white dimmable light
+- Chanfok ceiling fan with cool/warm white dimmable light (2 variants)
 - ComfortZone Powr Curve stand fan
 - Create XW-FAN-215-D ceiling fan with light (dimming and non-dimming variants)
 - Depauley WS-FPZ37-18I-EU ceiling fan with light
@@ -278,6 +280,7 @@
 - Goldair Platinum tower fan (2 variants)
 - Hiper T3 bladeless fan
 - Hoenofly Smart Amari ceiling fan with light
+- Holmes SmartConnect Digital Tower Fan (36 and 40 inch variants)
 - Hombli 6-speed ceiling fan with RGBCW light
 - Homebase 12" oscillating fan
 - HomeMate 5 speed fan regulator
@@ -303,7 +306,9 @@
 - Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
+- Princess Smart Tower fan
 - Reiga ceiling fans with and without light
+- Roomratv ceiling fan with light
 - Royal Clima RCB 150 ventilation system
 - Scheeair Nova 100 ventilation fan
 - Siguro SGR-FN-U32xx tower fan
@@ -447,7 +452,7 @@
 - Kogan glass 1.7L smart kettle
 - Korex AX-WF306N smart kettle
 - Leoffen LFIM6000 ice cube maker
-- Recteq RT700 grill
+- Recteq RT700 and RT1250 grills
 - Rohnson R-2858 SmartChef XL soft cooking air fryer
 - Setti+ KT950W smart kettle
 - Silvercrest 1.7L smart kettle
@@ -512,6 +517,7 @@
 ### Battery Charger
 
 - Absina Wallbox EV charger (also sold as Dé Wallbox and supporting 16, 32, 40 and 50A single and 3-phase variants)
+- ADPOW GO-B6 Pro-32A EV charger
 - AFYEEV 16A 11kW, 32A 22kW portable EV chargers
 - dé Wall Charger (3-phase 22Kw)
 - Demuda 4048/6048 MPPT solar charge controller
@@ -573,6 +579,7 @@ the best option.
 - Inna/Automat-ON AUTO000014 7 channel underfloor heating controller
 - JH PCIe mini computer switch
 - JH PCIe pro+ computer switch
+- LerLink high power switch
 - Linkoze LKWSW201 dual button
 - Logicom Strippy 4 way power strip with USB
 - Loratap RR400W-V2 relay switch
@@ -604,6 +611,8 @@ different features enabled, so are known to work with multiple brands
 of device.
 
 - 2 outlet plus 2 USB smartplug with individual timers
+- 3 way power monitoring strip
+  _confirmed as working with LSC Smart Connect powerstrip_
 - 4 way power monitoring strip (2 types)
   _confirmed as working with Kogan KASPS10A3P3UA 3 socket + USB powerstrip_
 - 4 way powerstrip with USB
@@ -652,6 +661,7 @@ of device.
 - A60 1800-2700K RGBWW light
 - Arknoah Aquarium lights
 - Arlec 10 path lights
+- Arlec LVE160HA ball lights
 - Asahom S105A-C outdoor lighting
 - Atomi smart color string light
 - Blitzwolf BW-LT31 LED strip
@@ -964,7 +974,9 @@ port and password.
 - generic smoke detector
 - Air Housekeeper 6-in-1 air quality monitor
 - Akai heat pump clothes dryer
+- Aquark Mr. Pure salt pool chlorinator
 - ASIP-0622 indoor planter
+- Bcetasy 18-in-1 air quality monitor
 - Brennenstuhl WFD3050P PIR motion activated CCT spotlight
 - Bresser Smart 7-in-1 weather station
 - Bresser Smart Thermo-hygrometer
@@ -996,6 +1008,7 @@ port and password.
 - Mayborn GroClock Connect sleep training alarm clock (also sold under Tommee Tippee and other brands)
 - ME201W level sensor
 - Mirabella Genio motion sensor
+- Moes human presence sensor
 - Momcozy white noise machine (2 variants)
 - Mustool MT15/MT29 air quality box
 - Nedis WIFIPD10WT pill dispenser
@@ -1056,6 +1069,7 @@ port and password.
 - HCT-611 water timer
 - HCT-626 dual water timer
 - HU06 smart lock
+- imitOS square downlight
 - Ironzon fingerprint lock
 - KB150A keypad fingerprint lock
 - MoistenLand water timer
